@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 10pt;
+    color: black;
+    margin: 0px 0px 0px 0px;
+    width: 800px;
+    height: 600px;
+    padding: 0px;
+    background-image: url('background.gif');
+}
